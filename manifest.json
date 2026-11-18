@@ -1,0 +1,15 @@
+{
+  "name": "আল-আকসা ইসলামী যুব সংঘ",
+  "short_name": "আল-আকসা",
+  "description": "আল-আকসা ইসলামী যুব সংঘ, চর রাঘবপুর, ময়মনসিংহ",
+  "lang": "bn",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fefce8",
+  "theme_color": "#14532d",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
